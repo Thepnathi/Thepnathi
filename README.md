@@ -5,8 +5,8 @@ Today I am mainly working with React.js, TypeScript and Python :snake:
 
 
 ## &#x1f4c8; Stats
-![Thep's github stats](https://github-readme-stats.vercel.app/api?username=Thepnathi&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepnathi&theme=tokyonight" alt="mystreak"/>
+<!-- ![Thep's github stats](https://github-readme-stats.vercel.app/api?username=Thepnathi&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thepnathi&theme=tokyonight" alt="mystreak"/> -->
 ![Thep's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thepnathi&theme=tokyonight&layout=compact)
 
 <!---
