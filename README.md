@@ -1,6 +1,6 @@
 Hey 👋  I am Thep and I am a software engineer currently working at <a href="https://www.travelperk.com/" target="_blank">TravelPerk</a> :airplane: I have over 2 years of experience and currently trying to build some cool things👷
 
-Today I am mainly working with React.js, TypeScript and Python :snake:
+Today I am mainly working in Python :snake:
 
 
 
